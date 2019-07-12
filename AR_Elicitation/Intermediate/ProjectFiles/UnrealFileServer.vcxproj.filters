@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Target.cs" />
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\UnrealFileServer\UnrealFileServer.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{1CCAED34-5872-4677-940A-A20DDABB2B65}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\UnrealFileServer\Private\UnrealFileServer.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

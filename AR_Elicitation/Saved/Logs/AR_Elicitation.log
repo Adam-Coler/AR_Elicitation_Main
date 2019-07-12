@@ -1,0 +1,1718 @@
+﻿Log file open, 07/12/19 14:39:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AR_Elicitation
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.781792
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/lib/win64/ml_perception_client.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_perception_client.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_graphics.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_lifecycle.dll
+LogWindows: Failed to load 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_privileges.dll' (GetLastError=126)
+LogWindows: File 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_privileges.dll' does not exist
+LogWindows: Failed to load 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/bin/ml_privileges.dll' (GetLastError=126)
+LogWindows: File 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/bin/ml_privileges.dll' does not exist
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/lib/win64/ml_privileges.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_platform.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_remote.dll
+LogMagicLeap: ML VDZI mode enabled. Using Vulkan renderer.
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/VirtualDevice/lib/ml_input.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/lib/win64/ml_secure_storage.dll
+LogMagicLeapAPISetup: Display: Dll loaded: C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0/lib/win64/ml_identity.dll
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: UE4-CL-0
+LogInit: Engine Version: 4.22.0-0+UE4
+LogInit: Compatible Engine Version: 4.22.0-0+UE4
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 11 2019 10:22:51
+LogInit: Compiled with Visual C++: 19.16.27026.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: UE4
+LogInit: Command Line:  -vulkan 
+LogInit: Base Directory: C:/ML_Unreal_0.20/UnrealEngine-dev-magicleap-mlsdk-0.20.0/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 10
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 22
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.12-20.39.07:992][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.12-20.39.07:992][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.07:993][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.12-20.39.08:000][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.12-20.39.08:001][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.12-20.39.08:001][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.12-20.39.08:018][  0]LogHAL: Display: Platform has ~ 32 GB [34161299456 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.12-20.39.08:018][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.12-20.39.08:019][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.12-20.39.08:019][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.12-20.39.08:020][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Scalability.ini]
+[2019.07.12-20.39.08:020][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.12-20.39.08:020][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.12-20.39.08:020][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.12-20.39.08:022][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.12-20.39.08:022][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Config/Windows/Engine.ini]
+[2019.07.12-20.39.08:023][  0]LogInit: Computer: DESKTOP-T51RDEP
+[2019.07.12-20.39.08:023][  0]LogInit: User: NuiLab01
+[2019.07.12-20.39.08:023][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.07.12-20.39.08:023][  0]LogInit: High frequency timer resolution =3.609383 MHz
+[2019.07.12-20.39.08:023][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.07.12-20.39.08:023][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.12-20.39.08:023][  0]LogMemory: Process Physical Memory: 112.91 MB used, 112.91 MB peak
+[2019.07.12-20.39.08:023][  0]LogMemory: Process Virtual Memory: 109.20 MB used, 109.20 MB peak
+[2019.07.12-20.39.08:023][  0]LogMemory: Physical Memory: 7442.53 MB used,  25136.23 MB free, 32578.75 MB total
+[2019.07.12-20.39.08:023][  0]LogMemory: Virtual Memory: 4720.69 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2019.07.12-20.39.08:186][  0]LogInit: Using OS detected language (en-US).
+[2019.07.12-20.39.08:186][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.12-20.39.08:189][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.12-20.39.08:531][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.12-20.39.08:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.12-20.39.08:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_LUNARG_standard_validation
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_NV_nsight
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_NV_optimus
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_fossilize
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_overlay
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_report
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_utils
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_swapchain_colorspace
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_device_group_creation
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_fence_capabilities
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_memory_capabilities
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_semaphore_capabilities
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_physical_device_properties2
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_surface_capabilities2
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_win32_surface
+[2019.07.12-20.39.10:081][  0]LogVulkanRHI: Display: - Found instance extension VK_NV_external_memory_capabilities
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: Not using instance layers
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: Using instance extensions
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: * VK_KHR_win32_surface
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2019.07.12-20.39.10:083][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2019.07.12-20.39.10:359][  0]LogRHI: Display: Setting GPU Capture Options: 1
+[2019.07.12-20.39.10:359][  0]LogRHI: Display: Toggling draw events: 1
+[2019.07.12-20.39.10:359][  0]LogRHI: Display: Toggling showmaterialdrawevents: 1
+[2019.07.12-20.39.10:359][  0]LogRHI: Display: Toggling rhi bypass: 1
+[2019.07.12-20.39.10:359][  0]LogVulkanRHI: Display: Found 1 device(s)
+[2019.07.12-20.39.10:359][  0]LogVulkanRHI: Display: Device 0: GeForce GTX 1080
+[2019.07.12-20.39.10:359][  0]LogVulkanRHI: Display: - API 0x401054 Driver 0x6851c000 VendorId 0x10de
+[2019.07.12-20.39.10:359][  0]LogVulkanRHI: Display: - DeviceID 0x1b80 Type Discrete GPU
+[2019.07.12-20.39.10:359][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: Using Device 0: Geometry 1 Tessellation 1
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device layer VK_LAYER_NV_optimus
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_blend_operation_advanced
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_conditional_rendering
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_conservative_rasterization
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_depth_range_unrestricted
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_descriptor_indexing
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_discard_rectangles
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_hdr_metadata
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_inline_uniform_block
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_post_depth_coverage
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_sample_locations
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_sampler_filter_minmax
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_shader_subgroup_ballot
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_shader_subgroup_vote
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_shader_viewport_index_layer
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_transform_feedback
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_EXT_vertex_attribute_divisor
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_16bit_storage
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_8bit_storage
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_bind_memory2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_create_renderpass2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_dedicated_allocation
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_descriptor_update_template
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_device_group
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_draw_indirect_count
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_driver_properties
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_fence
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_fence_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_memory
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_memory_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_semaphore
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_external_semaphore_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_get_memory_requirements2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_image_format_list
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_maintenance1
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_maintenance2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_maintenance3
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_multiview
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_push_descriptor
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_relaxed_block_layout
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_sampler_ycbcr_conversion
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_shader_atomic_int64
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_shader_draw_parameters
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_storage_buffer_storage_class
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_swapchain
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_variable_pointers
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_vulkan_memory_model
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_KHR_win32_keyed_mutex
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_clip_space_w_scaling
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_dedicated_allocation
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_device_diagnostic_checkpoints
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_external_memory
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_external_memory_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_fill_rectangle
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_fragment_coverage_to_color
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_framebuffer_mixed_samples
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_geometry_shader_passthrough
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_sample_mask_override_coverage
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_shader_subgroup_partitioned
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_viewport_array2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_viewport_swizzle
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NV_win32_keyed_mutex
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NVX_device_generated_commands
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: - Found device extension VK_NVX_multiview_per_view_attributes
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: Using device extensions
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_memory
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_fence
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_win32
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_bind_memory2
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2019.07.12-20.39.10:360][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2019.07.12-20.39.10:361][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2019.07.12-20.39.10:361][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2019.07.12-20.39.10:361][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 1 queues Xfer
+[2019.07.12-20.39.10:361][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 2 Device Memory Heaps; Max memory allocations 4096
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 0: Flags 0x1 Size 8471445504 (8079.00 MB) GPU
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 1: Flags 0x0 Size 34160508928 (32578.00 MB) 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 11 Device Memory Types (Not unified)
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 0: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 1: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 2: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 3: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 4: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 5: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 6: Flags 0x0 Heap 1 
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 7: Flags 0x1 Heap 0  Local
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 8: Flags 0x1 Heap 0  Local
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 9: Flags 0x6 Heap 1  HostVisible HostCoherent
+[2019.07.12-20.39.10:624][  0]LogVulkanRHI: Display: 10: Flags 0xe Heap 1  HostVisible HostCoherent HostCached
+[2019.07.12-20.39.10:629][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/VulkanPSO.cache.10de.1b80' not found.
+[2019.07.12-20.39.10:648][  0]LogVulkanRHI: Display: Nvidia User Driver Version = 417.71
+[2019.07.12-20.39.10:663][  0]LogRHI: Texture pool is 5372 MB (70% of 7675 MB)
+[2019.07.12-20.39.10:977][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.07.12-20.39.10:992][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.07.12-20.39.11:007][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.07.12-20.39.11:022][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.07.12-20.39.11:041][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.07.12-20.39.11:056][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.07.12-20.39.11:072][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.07.12-20.39.11:087][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.07.12-20.39.11:100][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.12-20.39.11:163][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.07.12-20.39.11:242][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.12-20.39.11:242][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.12-20.39.11:263][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.12-20.39.11:263][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.12-20.39.11:299][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.12-20.39.11:299][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.12-20.39.11:299][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.12-20.39.11:540][  0]LogShaderCompilers: Guid format shader working directory is -58 characters bigger than the processId version (../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Intermediate/Shaders/WorkingDirectory/13308/).
+[2019.07.12-20.39.11:540][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NuiLab01/AppData/Local/Temp/UnrealShaderWorkingDir/6EFDD9BE48E9750F232369A170BBBDB7/'.
+[2019.07.12-20.39.11:541][  0]LogXGEController: Cleaning working directory: C:/Users/NuiLab01/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.12-20.39.11:541][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.12-20.39.11:541][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.12-20.39.11:541][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.12-20.39.12:689][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.12-20.39.12:780][  0]LogDerivedDataCache: Loaded boot cache 0.09s 115MB ../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/DerivedDataCache/Boot.ddc.
+[2019.07.12-20.39.12:780][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/DerivedDataCache/Boot.ddc
+[2019.07.12-20.39.12:780][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.12-20.39.12:780][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.12-20.39.12:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.12-20.39.12:781][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.07.12-20.39.12:792][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.07.12-20.39.12:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.12-20.39.12:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.12-20.39.12:818][  0]LogMaterial: Verifying Global Shaders for SF_VULKAN_SM5
+[2019.07.12-20.39.12:824][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.12-20.39.12:835][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.12-20.39.13:102][  0]LogAssetRegistry: FAssetRegistry took 0.0299 seconds to start up
+[2019.07.12-20.39.13:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.12-20.39.13:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.12-20.39.13:701][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.12-20.39.13:701][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.12-20.39.13:701][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.12-20.39.13:701][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.12-20.39.13:738][  0]LogNetVersion: AR_Elicitation 1.0.0, NetCL: 0, EngineNetVer: 6, GameNetVer: 0 (Checksum: 3892447940)
+[2019.07.12-20.39.14:687][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074183 seconds
+[2019.07.12-20.39.14:691][  0]LogUObjectArray: 40873 objects as part of root set at end of initial load.
+[2019.07.12-20.39.14:691][  0]LogUObjectAllocator: 7103280 out of 0 bytes used by permanent object pool.
+[2019.07.12-20.39.14:691][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.16:649][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.16:649][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.17:784][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.12-20.39.17:808][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:299][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:299][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:300][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.07.12-20.39.18:300][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.07.12-20.39.18:575][  0]SourceControl: Source control is disabled
+[2019.07.12-20.39.18:576][  0]SourceControl: Source control is disabled
+[2019.07.12-20.39.18:594][  0]SourceControl: Source control is disabled
+[2019.07.12-20.39.18:604][  0]SourceControl: Source control is disabled
+[2019.07.12-20.39.19:109][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.12-20.39.19:235][  0]LogOcInput: OculusInput pre-init called
+[2019.07.12-20.39.19:449][  0]LogEngine: Initializing Engine...
+[2019.07.12-20.39.19:462][  0]LogMagicLeap: Display: Creating FMagicLeapCustomPresentVulkan
+[2019.07.12-20.39.19:462][  0]LogMagicLeap: MagicLeap initialized.
+[2019.07.12-20.39.19:463][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.12-20.39.19:463][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.12-20.39.19:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.12-20.39.19:464][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.12-20.39.19:841][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.12-20.39.19:879][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.12-20.39.19:900][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.39.19:977][  0]LogInit: FAudioDevice initialized.
+[2019.07.12-20.39.19:977][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.12-20.39.20:037][  0]LogDerivedDataCache: Saved boot cache 0.06s 115MB ../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/DerivedDataCache/Boot.ddc.
+[2019.07.12-20.39.20:044][  0]LogInit: Texture streaming: Enabled
+[2019.07.12-20.39.20:087][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.12-20.39.20:087][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={EF91EED6-4CEA-78B7-1590-708D2A0CB03B}
+[2019.07.12-20.39.20:627][  0]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.20:643][  0]LogInit: Transaction tracking system initialized
+[2019.07.12-20.39.20:722][  0]BlueprintLog: New page: Editor Load
+[2019.07.12-20.39.21:013][  0]LocalizationService: Localization service is disabled
+[2019.07.12-20.39.21:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/' took 0.02s
+[2019.07.12-20.39.21:988][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.12-20.39.21:988][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.12-20.39.21:988][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.12-20.39.21:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.12-20.39.21:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.12-20.39.21:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.12-20.39.21:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.12-20.39.22:511][  0]SourceControl: Source control is disabled
+[2019.07.12-20.39.22:511][  0]Cmd: MAP LOAD FILE="../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapInstructions.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.12-20.39.22:515][  0]LightingResults: New page: Lighting Build
+[2019.07.12-20.39.22:526][  0]MapCheck: New page: Map Check
+[2019.07.12-20.39.22:526][  0]LightingResults: New page: Lighting Build
+[2019.07.12-20.39.22:552][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.07.12-20.39.23:100][  0]LogAIModule: Creating AISystem for world MapInstructions
+[2019.07.12-20.39.23:124][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.12-20.39.23:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.07.12-20.39.23:151][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.12-20.39.23:151][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2019.07.12-20.39.23:151][  0]LogFileHelpers: Loading map 'MapInstructions' took 0.641
+[2019.07.12-20.39.23:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.23:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.23:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.23:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.23:311][  0]LogCollectionManager: Loaded 0 collections in 0.000910 seconds
+[2019.07.12-20.39.23:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Collections/' took 0.01s
+[2019.07.12-20.39.23:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Developers/NuiLab01/Collections/' took 0.00s
+[2019.07.12-20.39.23:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Collections/' took 0.00s
+[2019.07.12-20.39.23:333][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.12-20.39.23:342][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2702 classes and 625 folders.
+[2019.07.12-20.39.23:349][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.12-20.39.23:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.12-20.39.23:602][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.12-20.39.23:616][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: Requested PixelFormat 18 not supported by this swapchain! Falling back to supported swapchain format...
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: Found 3 Surface present modes:
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: - VkPresentModeKHR 3
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_MAILBOX_KHR (1)
+[2019.07.12-20.39.23:722][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 1
+[2019.07.12-20.39.23:762][  0]LogSlate: Took 0.005731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.12-20.39.23:766][  0]LogSlate: Took 0.003426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.12-20.39.23:776][  0]LogSlate: Took 0.003944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.12-20.39.23:781][  0]LogSlate: Took 0.003601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.07.12-20.39.23:956][  0]LogRenderer: Reallocating scene render targets to support 880x808 Format 10 NumSamples 1 (Frame:1).
+[2019.07.12-20.39.24:155][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.12-20.39.24:156][  0]LogLoad: (Engine Initialization) Total time: 20.16 seconds
+[2019.07.12-20.39.24:156][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.12-20.39.24:218][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.12-20.39.24:356][  2]LogAssetRegistry: Asset discovery search completed in 11.2767 seconds
+[2019.07.12-20.39.24:358][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.12-20.39.24:359][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000155 seconds (updated 0 objects)
+[2019.07.12-20.39.28:376][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.12-20.39.28:478][344]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.39.29:005][344]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.29:005][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions' with GeneratedClass '/Game/Maps/MapInstructions.MapInstructions_C' with ClassGeneratedBy '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions'
+[2019.07.12-20.39.29:006][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.12-20.39.29:518][344]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.30:030][344]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.30:030][344]PIE: New page: PIE session: MapInstructions (Jul 12, 2019, 8:39:30 AM)
+[2019.07.12-20.39.30:043][344]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapInstructions
+[2019.07.12-20.39.30:045][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001517s)
+[2019.07.12-20.39.30:045][344]LogAIModule: Creating AISystem for world MapInstructions
+[2019.07.12-20.39.30:046][344]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2019.07.12-20.39.30:046][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapInstructions.MapInstructions to /Game/Maps/UEDPIE_0_MapInstructions.MapInstructions (0.002486s)
+[2019.07.12-20.39.30:068][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.07.12-20.39.30:582][344]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.30:589][344]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.39.30:601][344]LogInit: FAudioDevice initialized.
+[2019.07.12-20.39.30:612][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.30:661][344]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.39.30:663][344]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapInstructions.MapInstructions up for play (max tick rate 0) at 2019.07.12-14.39.30
+[2019.07.12-20.39.30:664][344]LogWorld: Bringing up level for play took: 0.001236
+[2019.07.12-20.39.30:684][344]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.07.12-20.39.30:691][344]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Instructions->controller set
+[2019.07.12-20.39.30:693][344]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapInstructions 1.598
+[2019.07.12-20.39.30:694][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions' with GeneratedClass '/Game/Maps/MapInstructions.MapInstructions_C' with ClassGeneratedBy '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions'
+[2019.07.12-20.39.30:721][344]LogRenderer: Reallocating scene render targets to support 1292x808 Format 10 NumSamples 1 (Frame:1).
+[2019.07.12-20.39.34:484][509]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'TempRefArray' of length 3 in '/Game/BluePrints/Actors/BP_XRPawn_Instructions.BP_XRPawn_Instructions_C:fGetNextInstructionsPage'!
+[2019.07.12-20.39.34:506][510]LogNet: Browse: /Game/Maps/MapMain
+[2019.07.12-20.39.34:530][510]LogLoad: LoadMap: /Game/Maps/MapMain
+[2019.07.12-20.39.34:553][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.07.12-20.39.34:625][510]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.39.34:625][510]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.39.34:628][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.39.34
+[2019.07.12-20.39.34:629][510]LogWorld: Bringing up level for play took: 0.002472
+[2019.07.12-20.39.34:629][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.12-20.39.35:141][510]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.35:141][510]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.35:141][510]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.39.35:141][510]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.39.35:143][510]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.39.35:143][510]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.39.35:143][510]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentRollClockwise
+[2019.07.12-20.39.35:143][510]LogBlueprintUserMessages: [None] 0.0 Uni: RollClockwise
+[2019.07.12-20.39.35:144][510]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.39.35:144][510]LogLoad: Took 0.613661 seconds to LoadMap(/Game/Maps/MapMain)
+[2019.07.12-20.39.35:199][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions' with GeneratedClass '/Game/Maps/MapInstructions.MapInstructions_C' with ClassGeneratedBy '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions'
+[2019.07.12-20.39.35:200][512]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.39.35:249][512]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.39.35:249][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.35:262][512]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.39.35:278][512]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.35:307][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.39.35:307][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions' with GeneratedClass '/Game/Maps/MapInstructions.MapInstructions_C' with ClassGeneratedBy '/Game/Maps/MapInstructions.MapInstructions:PersistentLevel.MapInstructions'
+[2019.07.12-20.39.35:335][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.07.12-20.39.35:344][513]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.07.12-20.39.35:408][517]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.07.12-20.39.35:812][553]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.07.12-20.39.38:186][752]LogSlate: Took 0.004458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.12-20.39.38:259][752]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.39.38:263][752]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MapMain.MapMain
+[2019.07.12-20.39.38:284][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.07.12-20.39.38:285][752]Cmd: MAP LOAD FILE="../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.12-20.39.38:285][752]LightingResults: New page: Lighting Build
+[2019.07.12-20.39.38:286][752]LoadErrors: New page: Loading map: MapMain.umap
+[2019.07.12-20.39.38:286][752]MapCheck: New page: Map Check
+[2019.07.12-20.39.38:286][752]LightingResults: New page: Lighting Build
+[2019.07.12-20.39.38:307][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.07.12-20.39.38:358][752]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.12-20.39.38:380][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.07.12-20.39.38:401][752]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.12-20.39.38:402][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.07.12-20.39.38:402][752]LogFileHelpers: Loading map 'MapMain' took 0.117
+[2019.07.12-20.39.38:510][758]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.07.12-20.39.39:635][856]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.39.40:160][856]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.40:161][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.39.40:161][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.12-20.39.40:675][856]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.41:186][856]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.41:186][856]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:39:41 AM)
+[2019.07.12-20.39.41:186][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.39.41:193][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006169s)
+[2019.07.12-20.39.41:193][856]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.39.41:193][856]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2019.07.12-20.39.41:193][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.007057s)
+[2019.07.12-20.39.41:215][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.07.12-20.39.41:726][856]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.41:733][856]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.39.41:747][856]LogInit: FAudioDevice initialized.
+[2019.07.12-20.39.41:757][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.41:786][856]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.39.41:788][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.39.41
+[2019.07.12-20.39.41:788][856]LogWorld: Bringing up level for play took: 0.001084
+[2019.07.12-20.39.41:800][856]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.41:800][856]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.39.41:801][856]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.39.41:802][856]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.39.41:802][856]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.39.41:802][856]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentRollCounterClockwise
+[2019.07.12-20.39.41:802][856]LogBlueprintUserMessages: [None] 0.0 Uni: RollCounterClockwise
+[2019.07.12-20.39.41:802][856]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.39.41:805][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 0.709
+[2019.07.12-20.39.41:805][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.39.44:292][964]LogBlueprintUserMessages: [None] 4.670062 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.39.44:314][965]LogNet: Browse: /Game/Maps/MapMain
+[2019.07.12-20.39.44:338][965]LogLoad: LoadMap: /Game/Maps/MapMain
+[2019.07.12-20.39.44:339][965]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.44:361][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.07.12-20.39.44:361][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.39.44:367][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005573s)
+[2019.07.12-20.39.44:368][965]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.39.44:368][965]LogPlayLevel: PIE: World Init took: (0.000423s)
+[2019.07.12-20.39.44:368][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006302s)
+[2019.07.12-20.39.44:368][965]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.39.44:369][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.39.44
+[2019.07.12-20.39.44:369][965]LogWorld: Bringing up level for play took: 0.000629
+[2019.07.12-20.39.44:370][965]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.12-20.39.44:882][965]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.39.44:882][965]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.44:882][965]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.39.44:882][965]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.39.44:883][965]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.39.44:884][965]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.39.44:884][965]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentRollCounterClockwise
+[2019.07.12-20.39.44:884][965]LogBlueprintUserMessages: [None] 0.0 Uni: RollCounterClockwise
+[2019.07.12-20.39.44:884][965]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.39.44:884][965]LogLoad: Took 0.545743 seconds to LoadMap(/Game/Maps/UEDPIE_0_MapMain)
+[2019.07.12-20.39.51:198][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.39.51:199][249]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.39.51:222][249]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.39.51:222][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.39.51:234][249]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.39.51:241][249]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.39.51:268][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.39.51:269][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.39.51:297][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.07.12-20.39.51:306][250]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.07.12-20.41.16:050][772]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MapMain.MapMain:PersistentLevel.MapMain
+[2019.07.12-20.41.16:575][772]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 119 classes and 0 folders.
+[2019.07.12-20.41.17:150][772]LogSlate: Took 0.004260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.12-20.41.17:375][773]LogSlate: Took 0.003326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.12-20.41.30:101][563]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.41.30:631][563]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.41.30:633][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.41.30:634][563]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.12-20.41.30:662][563]LogPlayLevel: [PlayLevel] Compiling MapMain before play...
+[2019.07.12-20.41.30:837][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.07.12-20.41.30:837][563]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2019.07.12-20.41.31:349][563]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.41.31:863][563]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.41.31:863][563]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:41:31 AM)
+[2019.07.12-20.41.31:864][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.41.31:870][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006033s)
+[2019.07.12-20.41.31:870][563]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.41.31:870][563]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.07.12-20.41.31:871][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006822s)
+[2019.07.12-20.41.31:894][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.07.12-20.41.32:408][563]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.41.32:415][563]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.41.32:427][563]LogInit: FAudioDevice initialized.
+[2019.07.12-20.41.32:438][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.41.32:470][563]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.41.32:471][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.41.32
+[2019.07.12-20.41.32:471][563]LogWorld: Bringing up level for play took: 0.000817
+[2019.07.12-20.41.32:483][563]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.41.32:483][563]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.41.32:484][563]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.41.32:485][563]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.41.32:485][563]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.41.32:485][563]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveBackward
+[2019.07.12-20.41.32:485][563]LogBlueprintUserMessages: [None] 0.0 Uni: MoveBackward
+[2019.07.12-20.41.32:485][563]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.41.32:488][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 1.392
+[2019.07.12-20.41.32:488][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.41.35:443][666]LogBlueprintUserMessages: [None] 5.356112 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.41.36:426][702]LogBlueprintUserMessages: [None] 6.340445 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.41.36:426][702]LogBlueprintUserMessages: [None] 6.340445 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.41.36:427][702]LogBlueprintUserMessages: [None] 6.340445 Uni: BP_LEVEL_fGetNextItem 1 Length 14 Returned RefferentSpawnObject
+[2019.07.12-20.41.36:427][702]LogBlueprintUserMessages: [None] 6.340445 Uni: SpawnObject
+[2019.07.12-20.41.37:523][742]LogBlueprintUserMessages: [None] 7.437395 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.41.38:283][770]LogBlueprintUserMessages: [None] 8.19695 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.41.39:509][815]LogBlueprintUserMessages: [None] 9.421772 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.41.39:509][815]LogBlueprintUserMessages: [None] 9.421772 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.41.39:509][815]LogBlueprintUserMessages: [None] 9.421772 Uni: BP_LEVEL_fGetNextItem 2 Length 14 Returned RefferentYawRight
+[2019.07.12-20.41.39:509][815]LogBlueprintUserMessages: [None] 9.421772 Uni: YawRight
+[2019.07.12-20.41.39:646][820]LogBlueprintUserMessages: [None] 9.558962 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.41.40:630][856]LogBlueprintUserMessages: [None] 10.542721 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.41.40:630][856]LogBlueprintUserMessages: [None] 10.542721 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.41.40:630][856]LogBlueprintUserMessages: [None] 10.542721 Uni: BP_LEVEL_fGetNextItem 3 Length 14 Returned RefferentYawLeft
+[2019.07.12-20.41.40:630][856]LogBlueprintUserMessages: [None] 10.542721 Uni: YawLeft
+[2019.07.12-20.41.41:530][889]LogBlueprintUserMessages: [None] 11.443062 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.41.42:517][925]LogBlueprintUserMessages: [None] 12.430528 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.41.42:517][925]LogBlueprintUserMessages: [None] 12.430528 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.41.42:517][925]LogBlueprintUserMessages: [None] 12.430528 Uni: BP_LEVEL_fGetNextItem 4 Length 14 Returned RefferentMoveForward
+[2019.07.12-20.41.42:517][925]LogBlueprintUserMessages: [None] 12.430528 Uni: MoveForward
+[2019.07.12-20.41.43:323][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.41.43:324][955]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.41.43:354][955]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.41.43:354][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.41.43:370][955]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.41.43:375][955]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.41.43:412][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.41.43:413][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.41.43:444][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.07.12-20.41.43:523][956]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.07.12-20.42.10:158][941]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/W_Refferent_Banner.W_Refferent_Banner
+[2019.07.12-20.42.27:679][  2]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.42.28:206][  2]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.42.28:211][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.42.28:212][  2]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.12-20.42.28:219][  2]LogPlayLevel: [PlayLevel] Compiling W_Refferent_Banner before play...
+[2019.07.12-20.42.28:378][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.07.12-20.42.28:378][  2]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2019.07.12-20.42.28:890][  2]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.42.29:404][  2]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.42.29:405][  2]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:42:29 AM)
+[2019.07.12-20.42.29:406][  2]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.42.29:414][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007611s)
+[2019.07.12-20.42.29:414][  2]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.42.29:415][  2]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.07.12-20.42.29:415][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.008822s)
+[2019.07.12-20.42.29:441][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.07.12-20.42.29:954][  2]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.42.29:966][  2]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.42.29:977][  2]LogInit: FAudioDevice initialized.
+[2019.07.12-20.42.29:986][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.42.30:025][  2]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.42.30:027][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.42.30
+[2019.07.12-20.42.30:027][  2]LogWorld: Bringing up level for play took: 0.001098
+[2019.07.12-20.42.30:039][  2]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.42.30:039][  2]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.42.30:040][  2]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.42.30:041][  2]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.42.30:041][  2]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.42.30:041][  2]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveRight
+[2019.07.12-20.42.30:041][  2]LogBlueprintUserMessages: [None] 0.0 Uni: MoveRight
+[2019.07.12-20.42.30:041][  2]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.42.30:045][  2]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 0.949
+[2019.07.12-20.42.30:046][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.42.32:249][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.42.32:250][ 76]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.42.32:278][ 76]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.42.32:278][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.42.32:290][ 76]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.42.32:296][ 76]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.42.32:329][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.42.32:329][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.42.32:363][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.07.12-20.42.32:381][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.12-20.43.50:056][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.07.12-20.43.50:404][896]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/MapMain1287BBC541E085397B0F5097C75272BA.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapMain.umap'
+[2019.07.12-20.43.50:431][896]LogFileHelpers: Saving map 'MapMain' took 0.402
+[2019.07.12-20.43.51:131][936]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.43.51:659][936]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.43.51:667][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.43.51:667][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.12-20.43.52:179][936]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.43.52:715][936]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.43.52:715][936]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:43:52 AM)
+[2019.07.12-20.43.52:717][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.43.52:725][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007574s)
+[2019.07.12-20.43.52:725][936]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.43.52:725][936]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2019.07.12-20.43.52:725][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.008736s)
+[2019.07.12-20.43.52:756][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.12-20.43.53:268][936]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.43.53:279][936]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.43.53:291][936]LogInit: FAudioDevice initialized.
+[2019.07.12-20.43.53:300][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.43.53:339][936]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.43.53:340][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.43.53
+[2019.07.12-20.43.53:340][936]LogWorld: Bringing up level for play took: 0.000716
+[2019.07.12-20.43.53:353][936]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.43.53:354][936]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.43.53:354][936]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.43.53:355][936]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.43.53:355][936]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.43.53:355][936]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveForward
+[2019.07.12-20.43.53:355][936]LogBlueprintUserMessages: [None] 0.0 Uni: MoveForward
+[2019.07.12-20.43.53:355][936]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.43.53:359][936]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 2.264
+[2019.07.12-20.43.53:360][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.43.56:898][ 58]LogBlueprintUserMessages: [None] 5.783266 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.43.56:925][ 59]LogNet: Browse: /Game/Maps/MapMain
+[2019.07.12-20.43.56:952][ 59]LogLoad: LoadMap: /Game/Maps/MapMain
+[2019.07.12-20.43.56:953][ 59]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.43.56:982][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.12-20.43.56:982][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.43.56:988][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005703s)
+[2019.07.12-20.43.56:989][ 59]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.43.56:989][ 59]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2019.07.12-20.43.56:989][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006544s)
+[2019.07.12-20.43.56:989][ 59]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.43.56:990][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.43.56
+[2019.07.12-20.43.56:991][ 59]LogWorld: Bringing up level for play took: 0.000700
+[2019.07.12-20.43.56:991][ 59]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.12-20.43.57:502][ 59]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.43.57:502][ 59]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.43.57:502][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.43.57:502][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.43.57:503][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.43.57:503][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.43.57:504][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveRight
+[2019.07.12-20.43.57:504][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: MoveRight
+[2019.07.12-20.43.57:504][ 59]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.43.57:504][ 59]LogLoad: Took 0.551815 seconds to LoadMap(/Game/Maps/UEDPIE_0_MapMain)
+[2019.07.12-20.44.07:152][408]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.44.07:152][408]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.44.07:183][408]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.44.07:183][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.44.07:195][408]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.44.07:204][408]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.44.07:242][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.44.07:243][408]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.44.07:276][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.07.12-20.44.07:330][409]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.07.12-20.44.25:105][380]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ARElicitation
+[2019.07.12-20.44.25:105][380]LogTemp: CWD: C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Binaries\DotNET\IOS
+[2019.07.12-20.44.25:105][380]LogTemp: Initial Dir: C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0
+[2019.07.12-20.44.25:105][380]LogTemp: Env CWD: C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Binaries\DotNET\IOS
+[2019.07.12-20.44.25:107][380]LogTemp: BranchPath = DESKTOP-T51RDEP/C/ML_Unreal_0.20/UnrealEngine-dev-magicleap-mlsdk-0.20.0/Engine/Binaries --- GameBranchPath = DESKTOP-T51RDEP/C/ML_Unreal_0.20/UnrealEngine-dev-magicleap-mlsdk-0.20.0/Engine/Binaries
+[2019.07.12-20.44.25:117][380]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\NuiLab01\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.07.12-20.44.41:671][  7]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.12-20.44.41:706][  7]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.12-20.44.43:744][161]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/Actors/BP_XRPawn_Participant.BP_XRPawn_Participant
+[2019.07.12-20.45.06:558][441]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/BP_XRPawn_ParticipantA7F61C524000A7C0D55CEFABBBC1D838.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/BluePrints/Actors/BP_XRPawn_Participant.uasset'
+[2019.07.12-20.45.07:730][521]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.45.08:259][521]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.45.08:264][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.45.08:265][521]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.12-20.45.08:297][521]LogPlayLevel: [PlayLevel] Compiling BP_XRPawn_Participant before play...
+[2019.07.12-20.45.08:488][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.07.12-20.45.08:488][521]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (1 blueprints)
+[2019.07.12-20.45.09:000][521]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.45.09:521][521]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.45.09:521][521]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:45:09 AM)
+[2019.07.12-20.45.09:541][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.45.09:547][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005894s)
+[2019.07.12-20.45.09:548][521]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.45.09:548][521]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2019.07.12-20.45.09:548][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006946s)
+[2019.07.12-20.45.09:576][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.07.12-20.45.10:087][521]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.45.10:098][521]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.45.10:112][521]LogInit: FAudioDevice initialized.
+[2019.07.12-20.45.10:121][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.45.10:159][521]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.45.10:160][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.45.10
+[2019.07.12-20.45.10:161][521]LogWorld: Bringing up level for play took: 0.000947
+[2019.07.12-20.45.10:173][521]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveDown
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: MoveDown
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.45.10:174][521]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.45.10:178][521]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 1.082
+[2019.07.12-20.45.10:179][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.45.16:638][744]LogBlueprintUserMessages: [None] 8.921482 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.45.18:593][814]LogBlueprintUserMessages: [None] 10.876727 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.45.18:593][814]LogBlueprintUserMessages: [None] 10.876727 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.45.18:593][814]LogBlueprintUserMessages: [None] 10.876727 Uni: BP_LEVEL_fGetNextItem 1 Length 14 Returned RefferentPitchUp
+[2019.07.12-20.45.18:593][814]LogBlueprintUserMessages: [None] 10.876727 Uni: PitchUp
+[2019.07.12-20.45.21:007][901]LogBlueprintUserMessages: [None] 13.290465 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.45.22:953][971]LogBlueprintUserMessages: [None] 15.237163 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.45.22:953][971]LogBlueprintUserMessages: [None] 15.237163 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.45.22:953][971]LogBlueprintUserMessages: [None] 15.237163 Uni: BP_LEVEL_fGetNextItem 2 Length 14 Returned RefferentRollCounterClockwise
+[2019.07.12-20.45.22:953][971]LogBlueprintUserMessages: [None] 15.237163 Uni: RollCounterClockwise
+[2019.07.12-20.45.24:426][ 24]LogBlueprintUserMessages: [None] 16.709642 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.45.24:454][ 25]LogNet: Browse: /Game/Maps/MapMain
+[2019.07.12-20.45.24:485][ 25]LogLoad: LoadMap: /Game/Maps/MapMain
+[2019.07.12-20.45.24:486][ 25]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.45.24:518][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.07.12-20.45.24:519][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.45.24:525][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006115s)
+[2019.07.12-20.45.24:525][ 25]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.45.24:526][ 25]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.07.12-20.45.24:526][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006983s)
+[2019.07.12-20.45.24:526][ 25]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.45.24:527][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.45.24
+[2019.07.12-20.45.24:528][ 25]LogWorld: Bringing up level for play took: 0.000691
+[2019.07.12-20.45.24:528][ 25]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.12-20.45.25:041][ 25]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.45.25:041][ 25]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.45.25:043][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.45.25:043][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.45.25:044][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveUp
+[2019.07.12-20.45.25:045][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: MoveUp
+[2019.07.12-20.45.25:045][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.45.25:046][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.45.25:046][ 25]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.45.25:050][ 25]LogLoad: Took 0.564643 seconds to LoadMap(/Game/Maps/UEDPIE_0_MapMain)
+[2019.07.12-20.45.33:379][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.45.33:379][321]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.45.33:410][321]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.45.33:410][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.45.33:422][321]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.45.33:432][321]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.45.33:466][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.45.33:467][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.45.33:502][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.07.12-20.45.33:529][322]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.12-20.46.11:196][791]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.46.11:725][791]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.11:747][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.11:747][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.12-20.46.11:773][791]LogPlayLevel: [PlayLevel] Compiling BP_XRPawn_Participant before play...
+[2019.07.12-20.46.11:953][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.12-20.46.11:953][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 205 ms (1 blueprints)
+[2019.07.12-20.46.12:465][791]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.12:998][791]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.12:998][791]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:46:12 AM)
+[2019.07.12-20.46.13:012][791]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.46.13:018][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005692s)
+[2019.07.12-20.46.13:018][791]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.46.13:018][791]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2019.07.12-20.46.13:018][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006461s)
+[2019.07.12-20.46.13:045][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.07.12-20.46.13:560][791]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.13:571][791]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.46.13:582][791]LogInit: FAudioDevice initialized.
+[2019.07.12-20.46.13:591][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.46.13:627][791]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.46.13:628][791]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.46.13
+[2019.07.12-20.46.13:629][791]LogWorld: Bringing up level for play took: 0.000720
+[2019.07.12-20.46.13:639][791]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveDown
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: MoveDown
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.46.13:640][791]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.46.13:644][791]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 2.549
+[2019.07.12-20.46.13:645][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.15:330][843]LogBlueprintUserMessages: [None] 4.149317 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.16:887][899]LogBlueprintUserMessages: [None] 5.705691 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.17:497][921]LogBlueprintUserMessages: [None] 6.317647 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.17:748][930]LogBlueprintUserMessages: [None] 6.567861 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.17:971][938]LogBlueprintUserMessages: [None] 6.790558 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.18:165][945]LogBlueprintUserMessages: [None] 6.984872 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.18:331][951]LogBlueprintUserMessages: [None] 7.151544 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.18:470][956]LogBlueprintUserMessages: [None] 7.29003 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.19:150][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.19:151][980]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.46.19:181][980]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.46.19:182][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.46.19:193][980]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.46.19:202][980]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.46.19:229][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.46.19:230][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.19:265][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.12-20.46.19:289][981]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.12-20.46.31:468][575]LogTemp: Repeating last play command: VR Preview
+[2019.07.12-20.46.31:996][575]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.32:019][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.32:019][575]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.12-20.46.32:045][575]LogPlayLevel: [PlayLevel] Compiling BP_XRPawn_Participant before play...
+[2019.07.12-20.46.32:222][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.07.12-20.46.32:222][575]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2019.07.12-20.46.32:733][575]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.33:251][575]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.33:251][575]PIE: New page: PIE session: MapMain (Jul 12, 2019, 8:46:33 AM)
+[2019.07.12-20.46.33:261][575]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapMain
+[2019.07.12-20.46.33:267][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005798s)
+[2019.07.12-20.46.33:267][575]LogAIModule: Creating AISystem for world MapMain
+[2019.07.12-20.46.33:268][575]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2019.07.12-20.46.33:268][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapMain.MapMain to /Game/Maps/UEDPIE_0_MapMain.MapMain (0.006567s)
+[2019.07.12-20.46.33:292][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.07.12-20.46.33:804][575]LogMagicLeap: Error: MLRemoteIsServerConfigured failed with error MLResult_Timeout!
+[2019.07.12-20.46.33:815][575]LogInit: XAudio2 using 'Speakers / Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.12-20.46.33:827][575]LogInit: FAudioDevice initialized.
+[2019.07.12-20.46.33:835][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.46.33:870][575]LogLoad: Game class is 'Game_Mode_AR_Affordances_C'
+[2019.07.12-20.46.33:871][575]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapMain.MapMain up for play (max tick rate 0) at 2019.07.12-14.46.33
+[2019.07.12-20.46.33:871][575]LogWorld: Bringing up level for play took: 0.000708
+[2019.07.12-20.46.33:883][575]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: BP_LEVEL_fGetNextItem 0 Length 14 Returned RefferentMoveLeft
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: MoveLeft
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: Posseed MAP_MAIN
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant -> New Game Loaded
+[2019.07.12-20.46.33:884][575]LogBlueprintUserMessages: [None] 0.0 Uni: BP_Participant->controller set
+[2019.07.12-20.46.33:889][575]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapMain 2.792
+[2019.07.12-20.46.33:889][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.46.35:462][623]LogBlueprintUserMessages: [None] 4.010491 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.36:964][677]LogBlueprintUserMessages: [None] 5.512255 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.38:925][747]LogBlueprintUserMessages: [None] 7.472997 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.38:925][747]LogBlueprintUserMessages: [None] 7.472997 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.38:925][747]LogBlueprintUserMessages: [None] 7.472997 Uni: BP_LEVEL_fGetNextItem 1 Length 14 Returned RefferentMoveDown
+[2019.07.12-20.46.38:926][747]LogBlueprintUserMessages: [None] 7.472997 Uni: MoveDown
+[2019.07.12-20.46.39:599][771]LogBlueprintUserMessages: [None] 8.147412 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.40:551][805]LogBlueprintUserMessages: [None] 9.098639 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.42:497][875]LogBlueprintUserMessages: [None] 11.044449 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.42:497][875]LogBlueprintUserMessages: [None] 11.044449 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.42:497][875]LogBlueprintUserMessages: [None] 11.044449 Uni: BP_LEVEL_fGetNextItem 2 Length 14 Returned RefferentDeleteObject
+[2019.07.12-20.46.42:497][875]LogBlueprintUserMessages: [None] 11.044449 Uni: DeleteObject
+[2019.07.12-20.46.43:139][898]LogBlueprintUserMessages: [None] 11.686753 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.46:060][  3]LogBlueprintUserMessages: [None] 14.607553 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.49:058][110]LogBlueprintUserMessages: [None] 17.605381 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.49:058][110]LogBlueprintUserMessages: [None] 17.605381 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.49:058][110]LogBlueprintUserMessages: [None] 17.605381 Uni: BP_LEVEL_fGetNextItem 3 Length 14 Returned RefferentPitchUp
+[2019.07.12-20.46.49:058][110]LogBlueprintUserMessages: [None] 17.605381 Uni: PitchUp
+[2019.07.12-20.46.49:475][125]LogBlueprintUserMessages: [None] 18.022299 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.50:647][167]LogBlueprintUserMessages: [None] 19.194714 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.52:316][227]LogBlueprintUserMessages: [None] 20.863329 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.52:594][237]LogBlueprintUserMessages: [None] 21.141644 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.52:594][237]LogBlueprintUserMessages: [None] 21.141644 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.52:595][237]LogBlueprintUserMessages: [None] 21.141644 Uni: BP_LEVEL_fGetNextItem 4 Length 14 Returned RefferentPitchDown
+[2019.07.12-20.46.52:595][237]LogBlueprintUserMessages: [None] 21.141644 Uni: PitchDown
+[2019.07.12-20.46.54:082][290]LogBlueprintUserMessages: [None] 22.63069 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.54:279][297]LogBlueprintUserMessages: [None] 22.826324 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.54:279][297]LogBlueprintUserMessages: [None] 22.826324 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.54:279][297]LogBlueprintUserMessages: [None] 22.826324 Uni: BP_LEVEL_fGetNextItem 5 Length 14 Returned RefferentYawLeft
+[2019.07.12-20.46.54:279][297]LogBlueprintUserMessages: [None] 22.826324 Uni: YawLeft
+[2019.07.12-20.46.55:143][328]LogBlueprintUserMessages: [None] 23.687578 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.46.56:669][383]LogBlueprintUserMessages: [None] 25.216267 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.46.58:615][453]LogBlueprintUserMessages: [None] 27.16317 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.46.58:615][453]LogBlueprintUserMessages: [None] 27.16317 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.46.58:616][453]LogBlueprintUserMessages: [None] 27.16317 Uni: BP_LEVEL_fGetNextItem 6 Length 14 Returned RefferentMoveForward
+[2019.07.12-20.46.58:616][453]LogBlueprintUserMessages: [None] 27.16317 Uni: MoveForward
+[2019.07.12-20.46.59:616][489]LogBlueprintUserMessages: [None] 28.163919 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.02:702][600]LogBlueprintUserMessages: [None] 31.249527 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.04:648][670]LogBlueprintUserMessages: [None] 33.195801 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.04:648][670]LogBlueprintUserMessages: [None] 33.195801 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.04:649][670]LogBlueprintUserMessages: [None] 33.195801 Uni: BP_LEVEL_fGetNextItem 7 Length 14 Returned RefferentRollClockwise
+[2019.07.12-20.47.04:649][670]LogBlueprintUserMessages: [None] 33.195801 Uni: RollClockwise
+[2019.07.12-20.47.06:099][722]LogBlueprintUserMessages: [None] 34.646114 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.06:849][749]LogBlueprintUserMessages: [None] 35.397171 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.08:807][819]LogBlueprintUserMessages: [None] 37.354752 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.08:807][819]LogBlueprintUserMessages: [None] 37.354752 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.08:807][819]LogBlueprintUserMessages: [None] 37.354752 Uni: BP_LEVEL_fGetNextItem 8 Length 14 Returned RefferentYawRight
+[2019.07.12-20.47.08:807][819]LogBlueprintUserMessages: [None] 37.354752 Uni: YawRight
+[2019.07.12-20.47.09:529][845]LogBlueprintUserMessages: [None] 38.077709 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.10:085][865]LogBlueprintUserMessages: [None] 38.632896 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.12:037][935]LogBlueprintUserMessages: [None] 40.584885 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.12:037][935]LogBlueprintUserMessages: [None] 40.584885 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.12:037][935]LogBlueprintUserMessages: [None] 40.584885 Uni: BP_LEVEL_fGetNextItem 9 Length 14 Returned RefferentMoveUp
+[2019.07.12-20.47.12:037][935]LogBlueprintUserMessages: [None] 40.584885 Uni: MoveUp
+[2019.07.12-20.47.12:547][953]LogBlueprintUserMessages: [None] 41.094368 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.13:383][983]LogBlueprintUserMessages: [None] 41.930759 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.15:333][ 53]LogBlueprintUserMessages: [None] 43.880558 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.15:333][ 53]LogBlueprintUserMessages: [None] 43.880558 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.15:333][ 53]LogBlueprintUserMessages: [None] 43.880558 Uni: BP_LEVEL_fGetNextItem 10 Length 14 Returned RefferentMoveBackward
+[2019.07.12-20.47.15:333][ 53]LogBlueprintUserMessages: [None] 43.880558 Uni: MoveBackward
+[2019.07.12-20.47.15:866][ 72]LogBlueprintUserMessages: [None] 44.413616 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.16:655][100]LogBlueprintUserMessages: [None] 45.202797 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.18:622][170]LogBlueprintUserMessages: [None] 47.169544 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.18:622][170]LogBlueprintUserMessages: [None] 47.169544 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.18:622][170]LogBlueprintUserMessages: [None] 47.169544 Uni: BP_LEVEL_fGetNextItem 11 Length 14 Returned RefferentMoveRight
+[2019.07.12-20.47.18:622][170]LogBlueprintUserMessages: [None] 47.169544 Uni: MoveRight
+[2019.07.12-20.47.19:661][207]LogBlueprintUserMessages: [None] 48.208817 Uni: BP_Participant Trigger Pressed Paused No Event
+[2019.07.12-20.47.20:758][246]LogBlueprintUserMessages: [None] 49.305271 Uni: BP_Participant Trigger Pressed
+[2019.07.12-20.47.22:727][316]LogBlueprintUserMessages: [None] 51.274693 Uni: Level_BP Object Position Fixed
+[2019.07.12-20.47.22:727][316]LogBlueprintUserMessages: [None] 51.274693 Uni: BP+LEVEL cube pos fix 
+[2019.07.12-20.47.22:727][316]LogBlueprintUserMessages: [None] 51.274693 Uni: BP_LEVEL_fGetNextItem 12 Length 14 Returned RefferentSelectObejct
+[2019.07.12-20.47.22:727][316]LogBlueprintUserMessages: [None] 51.274693 Uni: SelectObejct
+[2019.07.12-20.47.25:638][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.47.25:639][420]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-20.47.25:669][420]LogMagicLeap: Error: MLGraphicsDestroyClient failed with status MLResult_InvalidParam
+[2019.07.12-20.47.25:669][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.12-20.47.25:681][420]LogSlate: Window 'AR_Elicitation Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2019.07.12-20.47.25:691][420]LogMagicLeapHandTracking: Error: MLHandTrackingCreate failed with error 'MLResult_UnspecifiedFailure'.
+[2019.07.12-20.47.25:723][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.12-20.47.25:724][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapMain.MapMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain' with GeneratedClass '/Game/Maps/MapMain.MapMain_C' with ClassGeneratedBy '/Game/Maps/MapMain.MapMain:PersistentLevel.MapMain'
+[2019.07.12-20.47.25:758][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.07.12-20.47.25:785][421]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.07.12-20.47.38:981][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.07.12-20.47.39:286][246]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/MapMainEC63ACEE4C81900841E84287A31BE38D.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapMain.umap'
+[2019.07.12-20.47.39:310][246]LogFileHelpers: Saving map 'MapMain' took 0.357
+[2019.07.12-20.57.38:986][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.07.12-20.57.38:986][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapMain' took 0.031
+[2019.07.12-20.57.38:988][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Actors/BP_XRPawn_Participant] ([1] browsable assets)...
+[2019.07.12-20.57.38:995][151]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Actors/BP_XRPawn_Participant.BP_XRPawn_Participant]
+[2019.07.12-20.57.38:995][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Actors/BP_XRPawn_Participant]
+[2019.07.12-20.57.39:119][151]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/BP_XRPawn_Participant_Auto1735AAD9741F371828F5932921E96B59A.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Autosaves/Game/BluePrints/Actors/BP_XRPawn_Participant_Auto1.uasset'
+[2019.07.12-20.57.39:120][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/W_Refferent_Banner] ([1] browsable assets)...
+[2019.07.12-20.57.39:120][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/W_Refferent_Banner]
+[2019.07.12-20.57.39:179][151]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/W_Refferent_Banner_Auto15014933A482DDB6796BA0CB3C27EEB18.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/Autosaves/Game/Menus/W_Refferent_Banner_Auto1.uasset'
+[2019.07.12-20.57.39:181][151]LogFileHelpers: Auto-saving content packages took 0.194
+[2019.07.12-21.02.33:468][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.12-21.02.33:780][694]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/MapMainC4440C2940A7F22B07DCFEB953F6D61E.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapMain.umap'
+[2019.07.12-21.02.33:804][694]LogFileHelpers: Saving map 'MapMain' took 0.365
+[2019.07.12-21.03.32:815][657]BlueprintLog: New page: Compile MapMain
+[2019.07.12-21.03.33:010][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.07.12-21.03.34:666][762]LogSlate: Window 'BP_XRPawn_Participant*' being destroyed
+[2019.07.12-21.03.34:686][762]LogSlate: Window 'BP_XRPawn_Participant*' being destroyed
+[2019.07.12-21.03.34:922][768]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2019.07.12-21.03.35:697][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.07.12-21.03.36:949][837]LogSlate: Window 'Save Content' being destroyed
+[2019.07.12-21.03.37:106][837]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/BP_XRPawn_Participant29418D7A47100434E88F43B0F926DFD3.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/BluePrints/Actors/BP_XRPawn_Participant.uasset'
+[2019.07.12-21.03.37:154][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.07.12-21.03.37:449][837]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/MapMain6C1F8F6E47171C1E02D708B12922D489.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Maps/MapMain.umap'
+[2019.07.12-21.03.37:473][837]LogFileHelpers: Saving map 'MapMain' took 0.345
+[2019.07.12-21.03.37:553][837]LogSavePackage: Moving '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Saved/W_Refferent_BannerC9F303894B34BB9D7423559D95BC5ADA.tmp' to '../../../../../Users/NuiLab01/Documents/Unreal Projects/AR_Elicitation/AR_Elicitation_Study/AR_Elicitation/Content/Menus/W_Refferent_Banner.uasset'
+[2019.07.12-21.03.37:625][837]LogSlate: Window 'AR_Elicitation - Unreal Editor' being destroyed
+[2019.07.12-21.03.37:627][837]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.12-21.03.37:825][838]Cmd: QUIT_EDITOR
+[2019.07.12-21.03.38:293][838]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-21.03.38:328][838]LogExit: Preparing to exit.
+[2019.07.12-21.03.38:595][838]LogExit: Editor shut down
+[2019.07.12-21.03.38:595][838]LogExit: Transaction tracking system shut down
+[2019.07.12-21.03.38:796][838]LogExit: Object subsystem successfully closed.
+[2019.07.12-21.03.38:819][838]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (632)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module SequencerWidgets (630)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.07.12-21.03.39:159][838]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.07.12-21.03.39:160][838]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.07.12-21.03.39:161][838]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (576)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (574)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (572)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (570)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (568)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module WebMMedia (566)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (564)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (562)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module SequenceRecorder (561)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (542)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.07.12-21.03.39:162][838]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.07.12-21.03.39:163][838]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.07.12-21.03.39:163][838]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.07.12-21.03.39:164][838]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (498)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module InputBindingEditor (496)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module MergeActors (494)
+[2019.07.12-21.03.40:842][838]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (492)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module LocalizationService (491)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module HardwareTargeting (488)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (486)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module UndoHistory (484)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module XmlParser (482)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module Blutility (480)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (478)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (477)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (474)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module SettingsEditor (472)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module ProjectLauncher (470)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module SessionFrontend (468)
+[2019.07.12-21.03.40:843][838]LogModuleManager: Shutting down and abandoning module ProfilerClient (466)
+[2019.07.12-21.03.40:844][838]LogModuleManager: Shutting down and abandoning module DeviceManager (464)
+[2019.07.12-21.03.40:844][838]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (463)
+[2019.07.12-21.03.40:897][838]LogModuleManager: Shutting down and abandoning module AutomationController (460)
+[2019.07.12-21.03.40:897][838]LogModuleManager: Shutting down and abandoning module AutomationWindow (458)
+[2019.07.12-21.03.40:897][838]LogModuleManager: Shutting down and abandoning module Layers (456)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (454)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module DetailCustomizations (452)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module PackagesDialog (450)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module Persona (448)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (447)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module AnimGraph (445)
+[2019.07.12-21.03.40:899][838]LogModuleManager: Shutting down and abandoning module Kismet (442)
+[2019.07.12-21.03.40:906][838]LogModuleManager: Shutting down and abandoning module GraphEditor (440)
+[2019.07.12-21.03.40:906][838]LogModuleManager: Shutting down and abandoning module ClassViewer (438)
+[2019.07.12-21.03.40:906][838]LogModuleManager: Shutting down and abandoning module Toolbox (436)
+[2019.07.12-21.03.40:906][838]LogModuleManager: Shutting down and abandoning module DesktopPlatform (435)
+[2019.07.12-21.03.40:906][838]LogModuleManager: Shutting down and abandoning module ModuleUI (432)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module MovieSceneTools (430)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module OutputLog (428)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module GammaUI (426)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module Documentation (424)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (422)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module MovieScene (420)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (418)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module LauncherPlatform (416)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module AnalyticsET (414)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module PortalServices (412)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module PortalRpc (410)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module MessagingRpc (408)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module AIModule (406)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module GameplayDebugger (405)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module AITestSuite (403)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module NavigationSystem (401)
+[2019.07.12-21.03.40:907][838]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (398)
+[2019.07.12-21.03.40:909][838]LogModuleManager: Shutting down and abandoning module ProfilerService (396)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module TaskGraph (394)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module SteamVRController (392)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (390)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (388)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module OculusInput (386)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (384)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module EditableMesh (382)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (380)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module CableComponent (378)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module AudioCapture (376)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (374)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module AndroidPermission (372)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (370)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (368)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module MediaCompositing (366)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module LinearTimecode (364)
+[2019.07.12-21.03.41:118][838]LogModuleManager: Shutting down and abandoning module ImgMedia (362)
+[2019.07.12-21.03.41:121][838]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2019.07.12-21.03.41:121][838]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2019.07.12-21.03.41:121][838]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2019.07.12-21.03.41:121][838]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module PolygonModeling (328)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module MeshEditor (326)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (324)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module CryptoKeys (322)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (320)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (318)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module UObjectPlugin (316)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (314)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (312)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module GitSourceControl (310)
+[2019.07.12-21.03.41:122][838]LogModuleManager: Shutting down and abandoning module SourceControl (309)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module AR_Elicitation (290)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module ActorSequence (278)
+[2019.07.12-21.03.41:123][838]LogModuleManager: Shutting down and abandoning module UdpMessaging (276)
+[2019.07.12-21.03.41:225][838]LogModuleManager: Shutting down and abandoning module TcpMessaging (274)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (272)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2019.07.12-21.03.41:325][838]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2019.07.12-21.03.41:326][838]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2019.07.12-21.03.41:326][838]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2019.07.12-21.03.41:326][838]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2019.07.12-21.03.41:326][838]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2019.07.12-21.03.41:326][838]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module AISupportModule (244)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module Paper2D (242)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (240)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (238)
+[2019.07.12-21.03.41:327][838]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2019.07.12-21.03.41:328][838]LogModuleManager: Shutting down and abandoning module Media (235)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2019.07.12-21.03.41:334][838]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2019.07.12-21.03.41:335][838]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2019.07.12-21.03.41:335][838]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2019.07.12-21.03.41:335][838]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2019.07.12-21.03.41:335][838]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2019.07.12-21.03.41:335][838]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2019.07.12-21.03.41:336][838]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2019.07.12-21.03.41:337][838]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2019.07.12-21.03.41:337][838]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module MRMesh (190)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (188)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (186)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module XAudio2 (184)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module Networking (182)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module Core (180)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module LevelSequence (178)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (171)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (169)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (159)
+[2019.07.12-21.03.41:338][838]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2019.07.12-21.03.41:434][838]LogDerivedDataCache: Shutdown
+[2019.07.12-21.03.41:434][838]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2019.07.12-21.03.41:434][838]LogXGEController: Cleaning working directory: C:/Users/NuiLab01/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.12-21.03.41:434][838]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2019.07.12-21.03.41:434][838]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2019.07.12-21.03.41:434][838]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2019.07.12-21.03.41:434][838]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2019.07.12-21.03.41:435][838]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (121)
+[2019.07.12-21.03.41:436][838]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.07.12-21.03.41:436][838]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.07.12-21.03.41:436][838]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.07.12-21.03.41:437][838]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.07.12-21.03.41:437][838]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.07.12-21.03.41:440][838]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.07.12-21.03.41:440][838]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.07.12-21.03.41:440][838]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module VulkanRHI (90)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.07.12-21.03.41:441][838]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.07.12-21.03.41:441][838]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.07.12-21.03.41:442][838]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.07.12-21.03.41:451][838]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.07.12-21.03.41:451][838]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.12-21.03.41:451][838]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB43E6CC3-49DA-3443-D4D2-98828E02E845%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.0-0%2BUE4&UserID=2e98d66c445ef46057d2279e965eddb5%7C92bb95ca0242428c95e049f5051264f6%7C929bb3a4-d6cc-4e0b-8c3d-c880b067623d&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2019.07.12-21.03.41:484][838]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (56)
+[2019.07.12-21.03.41:485][838]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.07.12-21.03.41:485][838]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.07.12-21.03.41:486][838]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.07.12-21.03.41:486][838]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.07.12-21.03.41:487][838]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.12-21.03.41:487][838]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.07.12-21.03.41:489][838]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.07.12-21.03.41:489][838]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.07.12-21.03.41:490][838]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.07.12-21.03.41:492][838]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.07.12-21.03.41:492][838]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.07.12-21.03.41:494][838]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.07.12-21.03.41:520][838]LogExit: Exiting.
+[2019.07.12-21.03.41:533][838]Log file closed, 07/12/19 15:03:41

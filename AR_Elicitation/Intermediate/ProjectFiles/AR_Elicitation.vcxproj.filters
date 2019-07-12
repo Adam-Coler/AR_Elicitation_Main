@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AR_Elicitation.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C31C1EF4-10E0-4589-BD79-EF218527569F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AR_Elicitation.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AR_ElicitationEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1D34A2BC-13C5-4E29-B4CB-DA1B32EF6F75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AR_Elicitation">
+      <UniqueIdentifier>{54D4244E-2EB6-450B-B65F-B40680F51D83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AR_Elicitation\AR_Elicitation.Build.cs">
+      <Filter>Source\AR_Elicitation</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AR_Elicitation\AR_Elicitation.cpp">
+      <Filter>Source\AR_Elicitation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AR_Elicitation\AR_Elicitation.h">
+      <Filter>Source\AR_Elicitation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AR_Elicitation\C_Blueprint_Function_Library.cpp">
+      <Filter>Source\AR_Elicitation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AR_Elicitation\C_Blueprint_Function_Library.h">
+      <Filter>Source\AR_Elicitation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

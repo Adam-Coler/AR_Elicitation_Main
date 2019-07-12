@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\BlankProgram\BlankProgram.Target.cs" />
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\BlankProgram\BlankProgram.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{A30CF166-72E9-48FE-8D95-A4ACE2E66030}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\BlankProgram\Private\BlankProgram.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\BlankProgram\Private\BlankProgram.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{69947DE6-F0AF-4AEE-BD1E-A62C8E7DF3B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{077ADA6E-BADC-4CA5-9443-80CD49CE59B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\BlankProgram\Resources\Windows\BlankProgram.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

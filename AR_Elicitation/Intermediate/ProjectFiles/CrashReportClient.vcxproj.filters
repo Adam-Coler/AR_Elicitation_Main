@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{0B2BD092-D394-4828-88B1-118369480A7E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{1DFBE96D-7716-4ED6-A9F1-605EC6239192}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportAnalytics.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientConfig.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientUnattended.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashReportUtil.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\CrashUpload.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\GenericErrorReport.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\PendingReports.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\PendingReports.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\PlatformErrorReport.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Linux">
+      <UniqueIdentifier>{314A8BAC-4E08-4CB1-8297-87963B2FC235}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
+      <Filter>Private\Linux</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Linux\LinuxErrorReport.h">
+      <Filter>Private\Linux</Filter>
+    </ClInclude>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{885D165F-0F33-4768-AA5A-91DB701F772E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Mac\MacErrorReport.h">
+      <Filter>Private\Mac</Filter>
+    </ClInclude>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{12F2465E-BF0C-47AB-B6A8-579D7800FEF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Private\Windows\WindowsErrorReport.h">
+      <Filter>Private\Windows</Filter>
+    </ClInclude>
+    <Filter Include="Public">
+      <UniqueIdentifier>{37727645-8210-49FF-A719-82778249BE04}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\..\..\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

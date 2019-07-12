@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AR_Elicitation-2150.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Elicitation\AR_Elicitation_Study\AR_Elicitation\Intermediate\Build\Win64\UE4Editor\Development\AR_Elicitation\AR_Elicitation.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Elicitation\AR_Elicitation_Study\AR_Elicitation\Intermediate\Build\Win64\UE4Editor\Development\AR_Elicitation\C_Blueprint_Function_Library.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Elicitation\AR_Elicitation_Study\AR_Elicitation\Intermediate\Build\Win64\UE4Editor\Development\AR_Elicitation\AR_Elicitation.init.gen.cpp.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Elicitation\AR_Elicitation_Study\AR_Elicitation\Intermediate\Build\Win64\UE4Editor\Development\AR_Elicitation\C_Blueprint_Function_Library.gen.cpp.obj"
+"C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Elicitation\AR_Elicitation_Study\AR_Elicitation\Intermediate\Build\Win64\UE4Editor\Development\AR_Elicitation\UE4Editor-AR_Elicitation-2150.lib"

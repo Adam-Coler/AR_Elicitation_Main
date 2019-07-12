@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AR_Affordances.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Affordences\AR_Affordances\Intermediate\Build\Win64\UE4Editor\Development\AR_Affordances\AR_Affordances.cpp.obj"
+"C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+/OUT:"C:\Users\NuiLab01\Documents\Unreal Projects\AR_Affordences\AR_Affordances\Intermediate\Build\Win64\UE4Editor\Development\AR_Affordances\UE4Editor-AR_Affordances.lib"

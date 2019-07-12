@@ -1,0 +1,14 @@
+﻿  *** Found installed MLSDK version 0.20 at 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0' ***
+  *** Found installed MLSDK version 0.20 at 'C:\Users\NuiLab01\MagicLeap\mlsdk\v0.20.0' ***
+  Building 17 actions with 12 processes...
+    [1/17] UnrealFrontend-Slate.lib
+CVTRES : fatal error CVT1107: 'C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\Module.Slate.3_of_5.cpp.obj' is corrupt
+C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\Module.Slate.3_of_5.cpp.obj : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+    [2/17] UnrealFrontend-Slate.dll
+       Creating library C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\UnrealFrontend-Slate.suppressed.lib and object C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\UnrealFrontend-Slate.suppressed.exp
+CVTRES : fatal error CVT1107: 'C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\Module.Slate.3_of_5.cpp.obj' is corrupt
+LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+UnrealBuildTool : error : UBT ERROR: Failed to produce item: C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Intermediate\Build\Win64\UnrealFrontend\Development\Slate\UnrealFrontend-Slate.lib
+                          (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+  Total build time: 1.07 seconds (Parallel executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command "C:\ML_Unreal_0.20\UnrealEngine-dev-magicleap-mlsdk-0.20.0\Engine\Build\BatchFiles\Build.bat UnrealFrontend Win64 Development -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

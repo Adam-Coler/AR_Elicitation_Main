@@ -9,6 +9,9 @@
 *.lo
 *.o
 *.obj
+*.ddc
+*.bin
+*.pdb
 
 # Precompiled Headers
 *.gch

@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{49DFD9EC-4E42-4282-D4D4-82A7BE1D7C51}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AR_Elicitation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
